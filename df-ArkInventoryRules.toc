@@ -1,6 +1,6 @@
 ## Title: df ArkInventory Rules
-## Version: 0.13.0
-## Interface: 90205
+## Version: 0.14.0
+## Interface: 90207
 ## Author: Bloodsoul
 ## Notes: "Additional rules to use within ArkInventory."
 ## DefaultState: enabled
