@@ -24,7 +24,7 @@ function rule.execute_addon( ... )
 		if type( arg ) == "number" then
             arg = arg .. ""
 			if not items_list[arg] then
-                error( string.format( ArkInventory.Localise["RULE_FAILED_ARGUMENT_IS_NOT"], fn, ax, "1-7" ), 0 )
+                error( string.format( ArkInventory.Localise["RULE_FAILED_ARGUMENT_IS_NOT"], fn, ax, "1-10" ), 0 )
             end
             local id = ArkInventoryRules.Object.info.id .. ""
             if items_list[arg][id] then
