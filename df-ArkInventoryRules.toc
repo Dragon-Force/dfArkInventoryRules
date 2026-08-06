@@ -1,5 +1,5 @@
 ## Title: df ArkInventory Rules
-## Version: 0.41.0
+## Version: 0.42.0
 ## Interface: 120007
 ## Author: Bloodsoul
 ## Notes: "Additional rules to use within ArkInventory."
